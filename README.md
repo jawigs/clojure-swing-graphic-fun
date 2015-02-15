@@ -4,4 +4,4 @@ Samples of using Swing to do graphics in Clojure; also demonstrates reacting to 
 
 Files:
 
-1. **csgf-mouse-events.clj** - Demonstrates drawing on a JPanel and responding to mouse events. Concept is very loosely based on this [Java tutorial](http://docs.oracle.com/javase/tutorial/uiswing/painting/index.html but in Clojure) with some ideas borrowed from this [Tetris implementation in Clojure](https://gist.github.com/alexander-yakushev/1207703)
+1. **csgf-mouse-events.clj** - Demonstrates drawing on a JPanel and responding to mouse events. Concept is loosely based on this [custom painting Java Swing tutorial](http://docs.oracle.com/javase/tutorial/uiswing/painting/index.html) with some ideas borrowed from this [Tetris implementation in Clojure](https://gist.github.com/alexander-yakushev/1207703)
